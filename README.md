@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!---
+### Programming Languages....
+
+<p align="left">
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+<img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+</p>
+--->
