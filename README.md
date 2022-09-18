@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 <img width="5%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me Îlign="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me ğŸÎ </h3> <p align="center">
+div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/prince-emmanuel-dunbo-agara-b0a4a513b">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/PEDA-ALPHA1">
