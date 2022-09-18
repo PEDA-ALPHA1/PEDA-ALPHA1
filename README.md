@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Open Source Fintech Start-up Projects
 - 📫 How to reach me: peda4sure@gmail.com
 
-### Programming Languages....
+### Development Tools
 
 <p align="left">
 <img width="5%" style="padding:5px" src="https://img.icons8.com/color/48/000000/c-programming.png"/>
