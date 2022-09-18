@@ -1,5 +1,10 @@
 ### HELLO WORLD, I AM PEDA ALPHA...
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+
 <!--
 **PEDA-ALPHA1/PEDA-ALPHA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
