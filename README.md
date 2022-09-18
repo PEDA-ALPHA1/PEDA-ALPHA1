@@ -10,7 +10,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on ALX SE Program
+- 🔭 I’m  a **Learner** | **Problem Solver** | **Tech Enthusiast**
 - 🌱 I’m currently learning Python Programming Language (in-depth)
 - 👯 I’m looking to collaborate on Open Source Fintech Start-up Projects
 - 📫 How to reach me: peda4sure@gmail.com
